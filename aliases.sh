@@ -1,0 +1,8 @@
+alias tt="todo.sh"
+alias td="todo.sh do"
+alias tl="todo.sh ls -x"
+alias ta="todo.sh add"
+alias tw="tl \@work"
+alias dj="te pl rb3 manage"
+alias dtest="te pl rb3 manage test --noinput"
+alias nfy="notify Done Done Basso.aiff"
