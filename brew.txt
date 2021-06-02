@@ -23,3 +23,12 @@ java
 vagrant
 virtualbox
 virtualbox-extension-pack
+iterm2
+homebrew/cask/dash
+visual-studio-code
+punto-switcher
+sublime-text
+vlc
+yandex-disk
+typora
+disk-inventory-x
