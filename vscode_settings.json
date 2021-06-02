@@ -1,0 +1,35 @@
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.exclude": {
+        "**/*.pyc": true
+    },
+    "python.analysis.diagnosticPublishDelay": 300,
+    "editor.minimap.enabled": false,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "python.linting.pylintUseMinimalCheckers": false,
+    "terminal.integrated.rendererType": "dom",
+    "editor.suggestSelection": "first",
+    "git.confirmSync": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "workbench.fontAliasing": "auto",
+    "python.pythonPath": "/usr/local/anaconda3/bin/python",
+    "editor.renderControlCharacters": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "python.languageServer": "Pylance",
+    "python.linting.mypyEnabled": true,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "git.suggestSmartCommit": false,
+    "docker.containers.label": "ContainerName",
+    "python.analysis.typeCheckingMode": "basic",
+}
